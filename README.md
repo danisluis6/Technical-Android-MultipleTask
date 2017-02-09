@@ -12,3 +12,8 @@ Technical-Android-MultipleTask
 
 ## Running multiple AsyncTasks at the same time[Not possible - Impossible]
 
+    + Handler Android
+        -     
+
+    + AsyncTask Android
+        - 
