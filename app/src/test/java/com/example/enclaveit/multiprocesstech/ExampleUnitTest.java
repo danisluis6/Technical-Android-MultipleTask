@@ -1,4 +1,4 @@
-package com.example.enclaveit.multipletask;
+package com.example.enclaveit.multiprocesstech;
 
 import org.junit.Test;
 
